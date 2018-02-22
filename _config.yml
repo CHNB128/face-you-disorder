@@ -12,4 +12,4 @@ url: "https://chnb128.github.io/face-you-disorder/"
 # Build settings
 markdown: kramdown
 permalink: /:year/:title:output_ext
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
