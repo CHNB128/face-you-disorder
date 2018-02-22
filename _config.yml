@@ -1,1 +1,15 @@
-theme: jekyll-theme-leap-day
+# Site settings
+title: Scroll
+email: d.aren.nalson@gmail.com
+description: >
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/scroll" 
+url: "https://chnb128.github.io/scroll/" 
+github_username:  chnb128
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
+theme: jekyll-theme-hacker
